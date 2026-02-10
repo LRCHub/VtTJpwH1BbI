@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Naked Eyes",
+  "base_artist": "Bonbero",
+  "createdAt": "2026-02-10T14:01:39.847714Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Naked Eyes",
+      "artist": "Always Something There to Remind Me",
+      "has_synced": true,
+      "path": "select/01_Naked_Eyes_Always_Something_There_to_Remind_Me.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Naked Eyes",
+      "artist": "Always Something There To Remind Me",
+      "has_synced": true,
+      "path": "select/02_Naked_Eyes_Always_Something_There_To_Remind_Me.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Naked Eyes",
+      "artist": "Promises, Promises - Naked Eyes",
+      "has_synced": true,
+      "path": "select/03_Naked_Eyes_Promises,_Promises_-_Naked_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Naked Eyes",
+      "artist": "Icon",
+      "has_synced": false,
+      "path": "select/04_Naked_Eyes_Icon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Always Something There To Remind Me - Naked Eyes (1983)",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/05_Always_Something_There_To_Remind_Me_-_Naked_Eyes_(1983)_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Always Something There To Remind Me - Naked Eyes / Naked Eyes",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/06_Always_Something_There_To_Remind_Me_-_Naked_Eyes___Naked_Eyes_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Naked Eyes",
+      "artist": "Blue Foster",
+      "has_synced": false,
+      "path": "select/07_Naked_Eyes_Blue_Foster.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "1-Naked Eyes",
+      "artist": "Icon",
+      "has_synced": true,
+      "path": "select/08_1-Naked_Eyes_Icon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Naked Eyes / Always Something There To Remind Me",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/09_Naked_Eyes___Always_Something_There_To_Remind_Me_Various.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Naked Eyes - Always Something There To Remind Me",
+      "artist": "Chrysalis Records",
+      "has_synced": true,
+      "path": "select/10_Naked_Eyes_-_Always_Something_There_To_Remind_Me_Chrysalis_Records.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "PROMISES PROMISES -  Naked Eyes",
+      "artist": "Naked Eyes",
+      "has_synced": true,
+      "path": "select/11_PROMISES_PROMISES_-_Naked_Eyes_Naked_Eyes.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Naked Eyes - Promises, Promises",
+      "artist": "Billboard",
+      "has_synced": true,
+      "path": "select/12_Naked_Eyes_-_Promises,_Promises_Billboard.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Naked Eyes - Always Something There To Remind Me",
+      "artist": "Billboard",
+      "has_synced": true,
+      "path": "select/13_Naked_Eyes_-_Always_Something_There_To_Remind_Me_Billboard.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Naked Eyes",
+      "artist": "Odd Project",
+      "has_synced": false,
+      "path": "select/14_Naked_Eyes_Odd_Project.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Naked Eyes / Always Something There To Remind Me",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/15_Naked_Eyes___Always_Something_There_To_Remind_Me_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Naked Eyes-Always Something There To Remind Me",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/16_Naked_Eyes-Always_Something_There_To_Remind_Me_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Naked Eyes - Always Something There To Remind Me",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/17_Naked_Eyes_-_Always_Something_There_To_Remind_Me_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Promises Promises (Jellybean 12'' Mix) (Naked Eyes feat. Madonna)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/18_Promises_Promises_(Jellybean_12''_Mix)_(Naked_Eyes_feat._Madonna)_Madonna.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Naked Eyes",
+      "artist": "Bonbero, Kohjiya",
+      "has_synced": false,
+      "path": "select/pl_01_Naked_Eyes_Bonbero,_Kohjiya.txt"
+    }
+  ]
+}
